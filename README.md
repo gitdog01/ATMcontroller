@@ -4,9 +4,9 @@
    `https://github.com/gitdog01/ATMcontroller.git`
 2. run `test.py`
 
-if you try to run it in a version older than Python 3.7.2
-Temp PIN is "1111"
-The test consider cash bin
+- if you try to run it in a version older than Python 3.7.2
+- Temp PIN is "1111"
+- The test consider cash bin
 
 ### ATMcontroller.py
 
